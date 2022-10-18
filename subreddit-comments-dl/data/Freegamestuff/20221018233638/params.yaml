@@ -1,0 +1,17 @@
+batch_size: 10
+comments_cap: null
+debug: true
+laps: 1
+output_dir: ./data/
+reddit_id: RcyIv49LBKHzsRDRrWLEaw
+reddit_username: Kastan_
+subreddit: Freegamestuff
+total_comments_counter: 7
+total_counter: 17
+total_submissions_counter: 10
+utc_after: null
+utc_before: null
+utc_lower_bound: null
+utc_newer: 1665781911
+utc_older: 1665068458
+utc_upper_bound: null

@@ -1,0 +1,12 @@
+batch_size: 10
+comments_cap: null
+debug: true
+laps: 1
+output_dir: ./data/
+reddit_id: RcyIv49LBKHzsRDRrWLEaw
+reddit_username: Kastan_
+subreddit: Freegamestuff
+utc_after: null
+utc_before: null
+utc_lower_bound: null
+utc_upper_bound: null
